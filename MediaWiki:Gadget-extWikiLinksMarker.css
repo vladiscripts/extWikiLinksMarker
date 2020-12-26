@@ -1,0 +1,21 @@
+a.wikipedia, a.wikilivres, a.wikilivresru {
+	background-position: center right;
+    background-repeat: no-repeat;
+    padding-right: 14px;
+    background-size: 12px;
+    
+    /*background-position: center left;*/
+    /*padding-left: 13px;*/
+}
+
+a.wikipedia {
+    background-image: url(//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wikipedia-logo.png/20px-Wikipedia-logo.png);
+}
+
+a.wikilivres  {
+    background-image: url(//upload.wikimedia.org/wikisource/ru/thumb/c/cf/Wikilivres_logo.png/20px-Wikilivres_logo.png);
+}
+
+a.wikilivresru {
+	background-image: url(//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Wlru-logo.png/13px-Wlru-logo.png);
+}
